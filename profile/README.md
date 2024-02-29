@@ -21,6 +21,7 @@
 ## demo
 
 查看該年碳排放量之統計圖表
+其中包含未來以模型預測的數據
 
 ![demo](https://github.com/carbon-map/.github/blob/main/profile/demo.png)
 
